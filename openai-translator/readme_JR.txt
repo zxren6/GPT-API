@@ -11,7 +11,7 @@ Note:
 1) OpenAI-API-key needs to be explictely given, e.g. in "openai_model.py", we add a line API_KEY = "...", and then use this variable API_KEY in the following script.
 
 **************
-API_KEY = "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"
+API_KEY = "sk-xxx"
 
 class OpenAIModel(Model):
     def __init__(self, model: str, api_key: str):
