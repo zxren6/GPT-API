@@ -1,4 +1,4 @@
-Translation between languages using OpenAI API. It supports input of a pdf document. 
+Translation between languages using OpenAI API. It supports pdf document as input. 
 
 To run it using command line: 
 
